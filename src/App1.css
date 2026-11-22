@@ -1,0 +1,362 @@
+.app {
+  width: 100%;
+  min-width: 0; /* επιτρέπει στο .app να στενεύει σε μικρές οθόνες */
+  max-width: 600px;
+  padding: 32px 16px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 16px;
+}
+
+/* --- Επιλογή και αναζήτηση πόλης --- */
+.controls {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap; /* στο κινητό πέφτουν σε δύο γραμμές */
+  gap: 10px;
+  align-items: flex-start;
+}
+.city-select {
+  flex: 1 1 200px;
+  min-width: 0;
+  padding: 12px 14px;
+  border: none;
+  border-radius: 12px;
+  font-size: 16px;
+  background: #fff;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.12);
+  cursor: pointer;
+}
+
+.city-search {
+  flex: 1 1 260px;
+  min-width: 0; /* να μπορεί να στενέψει στα μικρά κινητά */
+  position: relative; /* για να τοποθετηθεί η λίστα αποτελεσμάτων από κάτω */
+}
+.search-form {
+  display: flex;
+  gap: 8px;
+}
+.search-form input {
+  flex: 1;
+  min-width: 0;
+  padding: 12px 14px;
+  border: none;
+  border-radius: 12px;
+  font-size: 16px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.12);
+}
+.search-form button {
+  padding: 12px 16px;
+  border: none;
+  border-radius: 12px;
+  background: #1d4ed8;
+  color: #fff;
+  font-size: 15px;
+  cursor: pointer;
+}
+.search-form button:disabled {
+  opacity: 0.6;
+  cursor: wait;
+}
+.search-message {
+  margin: 8px 0 0;
+  padding: 8px 12px;
+  border-radius: 10px;
+  background: #fff;
+  font-size: 14px;
+  color: #7f1d1d;
+}
+.search-results {
+  max-height: 320px; /* αν υπάρχουν πολλά αποτελέσματα, εμφανίζεται κύλιση */
+  overflow-y: auto;
+  position: absolute;
+  top: calc(100% + 6px);
+  left: 0;
+  right: 0;
+  z-index: 10;
+  margin: 0;
+  padding: 6px;
+  list-style: none;
+  background: #fff;
+  border-radius: 12px;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.2);
+}
+.search-results button {
+  width: 100%;
+  padding: 10px 12px;
+  border: none;
+  border-radius: 8px;
+  background: transparent;
+  text-align: left;
+  font-size: 15px;
+  cursor: pointer;
+}
+.search-results button:hover,
+.search-results button:focus-visible {
+  background: #e0f2fe;
+}
+.search-results span {
+  color: #555;
+}
+
+/* --- Κάρτα καιρού --- */
+.weather-card {
+  width: 100%;
+  max-width: 380px;
+  background: linear-gradient(135deg, #4facfe, #00f2fe);
+  color: #fff;
+  border-radius: 20px;
+  padding: 24px 20px;
+  text-align: center;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.18);
+}
+.weather-card.updating {
+  opacity: 0.6;
+  transition: opacity 0.2s;
+}
+.weather-icon {
+  width: 120px;
+  height: 120px;
+  object-fit: contain;
+}
+.temp {
+  font-size: 64px;
+  margin: 0;
+}
+.description {
+  margin: 4px 0 14px;
+  font-size: 22px;
+  text-transform: capitalize;
+}
+.location {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 6px;
+  font-size: 18px;
+  margin-bottom: 18px;
+}
+
+/* --- Λεπτομέρειες --- */
+.details {
+  display: flex;
+  justify-content: space-around;
+  border-top: 1px solid rgba(255, 255, 255, 0.35);
+  padding-top: 16px;
+  margin-top: 8px;
+}
+.detail {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 4px;
+}
+.detail-icon {
+  font-size: 26px;
+}
+.detail-label {
+  font-size: 14px;
+  opacity: 0.9;
+}
+.detail strong {
+  font-size: 20px;
+}
+
+.details.extra {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 16px 8px;
+}
+.extra .detail-icon {
+  font-size: 20px;
+}
+.extra .detail strong {
+  font-size: 15px;
+}
+.extra .detail-label {
+  font-size: 12px;
+}
+
+/* --- Μηνύματα --- */
+.error {
+  background: #fee2e2;
+  color: #991b1b;
+  padding: 10px 14px;
+  border-radius: 10px;
+  margin: 0;
+  width: 100%;
+  max-width: 380px;
+}
+.info {
+  color: #333;
+}
+
+/* --- Καρτέλες (tabs) --- */
+.tabs {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr); /* τρεις ίσες στήλες: οι καρτέλες μένουν σε μία σειρά */
+  gap: 6px;
+  width: 100%;
+  max-width: 380px;
+}
+.tab {
+  min-width: 0;
+  white-space: nowrap; /* το κείμενο δεν σπάει σε δεύτερη γραμμή */
+  padding: 10px 2px;
+  border: none;
+  border-radius: 12px;
+  background: rgba(255, 255, 255, 0.55);
+  color: #1e293b;
+  font-size: 14px;
+  cursor: pointer;
+}
+@media (max-width: 360px) {
+  .tab {
+    font-size: 12.5px;
+  }
+}
+.tab.active {
+  background: #fff;
+  font-weight: 600;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.12);
+}
+
+/* --- Κάρτα χάρτη --- */
+.map-card {
+  width: 100%;
+  max-width: 380px;
+  background: linear-gradient(135deg, #4facfe, #00f2fe);
+  color: #fff;
+  border-radius: 20px;
+  padding: 20px;
+  text-align: center;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.18);
+}
+.map-title {
+  margin: 0 0 14px;
+  font-size: 20px;
+}
+.map-frame {
+  display: block;
+  width: 100%;
+  height: 320px;
+  border: 0;
+  border-radius: 12px;
+  background: #e2e8f0;
+}
+.map-coords {
+  margin: 12px 0;
+  font-size: 13px;
+  opacity: 0.9;
+}
+.map-link {
+  display: inline-block;
+  padding: 10px 16px;
+  border-radius: 12px;
+  background: #fff;
+  color: #1d4ed8;
+  font-weight: 600;
+  text-decoration: none;
+}
+.map-link:hover,
+.map-link:focus-visible {
+  background: #e0f2fe;
+}
+
+/* --- Κάρτα πρόγνωσης --- */
+.forecast-card {
+  width: 100%;
+  max-width: 380px;
+  background: linear-gradient(135deg, #4facfe, #00f2fe);
+  color: #fff;
+  border-radius: 20px;
+  padding: 16px;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.18);
+}
+.forecast-card.updating {
+  opacity: 0.6;
+  transition: opacity 0.2s;
+}
+.forecast-title {
+  margin: 0 0 12px;
+  font-size: 20px;
+  text-align: center;
+}
+.forecast-days,
+.forecast-hours {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+.forecast-day + .forecast-day {
+  border-top: 1px solid rgba(255, 255, 255, 0.35);
+}
+.forecast-day-button {
+  width: 100%;
+  display: grid;
+  grid-template-columns: 1fr 40px auto auto 14px;
+  align-items: center;
+  gap: 8px;
+  padding: 6px 4px;
+  border: none;
+  background: transparent;
+  color: inherit;
+  font-size: 15px;
+  text-align: left;
+  cursor: pointer;
+}
+.forecast-day-button:hover,
+.forecast-day-button:focus-visible {
+  background: rgba(255, 255, 255, 0.15);
+  border-radius: 10px;
+}
+.day-label {
+  font-weight: 600;
+}
+.day-icon {
+  width: 40px;
+  height: 40px;
+}
+.day-rain {
+  font-size: 13px;
+  opacity: 0.95;
+}
+.day-arrow {
+  font-size: 10px;
+}
+.forecast-hours {
+  padding: 4px 0 10px;
+}
+.forecast-hour {
+  display: grid;
+  grid-template-columns: 46px 36px 1fr;
+  align-items: center;
+  gap: 8px;
+  padding: 4px 4px;
+  background: rgba(255, 255, 255, 0.12);
+  border-radius: 10px;
+}
+.forecast-hour + .forecast-hour {
+  margin-top: 4px;
+}
+.hour-time {
+  font-weight: 600;
+}
+.hour-icon {
+  width: 36px;
+  height: 36px;
+}
+.hour-info {
+  display: flex;
+  flex-direction: column;
+  font-size: 14px;
+}
+.hour-main {
+  text-transform: capitalize;
+}
+.hour-info small {
+  font-size: 12px;
+  opacity: 0.95;
+}

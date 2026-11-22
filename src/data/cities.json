@@ -1,0 +1,2955 @@
+[
+  {
+    "id": "gr-264371",
+    "name": "Αθήνα",
+    "country": "GR",
+    "lat": 37.9838,
+    "lon": 23.7278,
+    "group": "gr"
+  },
+  {
+    "id": "gr-734077",
+    "name": "Θεσσαλονίκη",
+    "country": "GR",
+    "lat": 40.6407,
+    "lon": 22.9349,
+    "group": "gr"
+  },
+  {
+    "id": "gr-255683",
+    "name": "Πάτρα",
+    "country": "GR",
+    "lat": 38.2462,
+    "lon": 21.7351,
+    "group": "gr"
+  },
+  {
+    "id": "gr-255274",
+    "name": "Πειραιάς",
+    "country": "GR",
+    "lat": 37.942,
+    "lon": 23.6462,
+    "group": "gr"
+  },
+  {
+    "id": "gr-258576",
+    "name": "Λάρισα",
+    "country": "GR",
+    "lat": 39.6285,
+    "lon": 22.4211,
+    "group": "gr"
+  },
+  {
+    "id": "gr-255524",
+    "name": "Περιστέρι",
+    "country": "GR",
+    "lat": 38.0154,
+    "lon": 23.6919,
+    "group": "gr"
+  },
+  {
+    "id": "gr-261745",
+    "name": "Ηράκλειο",
+    "country": "GR",
+    "lat": 35.3279,
+    "lon": 25.1434,
+    "group": "gr"
+  },
+  {
+    "id": "gr-261414",
+    "name": "Καλλιθέα",
+    "country": "GR",
+    "lat": 37.95,
+    "lon": 23.7,
+    "group": "gr"
+  },
+  {
+    "id": "gr-265488",
+    "name": "Αχαρνές",
+    "country": "GR",
+    "lat": 38.0833,
+    "lon": 23.7333,
+    "group": "gr"
+  },
+  {
+    "id": "gr-736083",
+    "name": "Καλαμαριά",
+    "country": "GR",
+    "lat": 40.5825,
+    "lon": 22.9503,
+    "group": "gr"
+  },
+  {
+    "id": "gr-256429",
+    "name": "Νίκαια",
+    "country": "GR",
+    "lat": 37.9667,
+    "lon": 23.65,
+    "group": "gr"
+  },
+  {
+    "id": "gr-262036",
+    "name": "Γλυφάδα",
+    "country": "GR",
+    "lat": 37.8629,
+    "lon": 23.758,
+    "group": "gr"
+  },
+  {
+    "id": "gr-251833",
+    "name": "Βόλος",
+    "country": "GR",
+    "lat": 39.3692,
+    "lon": 22.9477,
+    "group": "gr"
+  },
+  {
+    "id": "gr-256601",
+    "name": "Ίλιον",
+    "country": "GR",
+    "lat": 38.0333,
+    "lon": 23.7,
+    "group": "gr"
+  },
+  {
+    "id": "gr-8310138",
+    "name": "Ηλιούπολη",
+    "country": "GR",
+    "lat": 37.9315,
+    "lon": 23.7678,
+    "group": "gr"
+  },
+  {
+    "id": "gr-260204",
+    "name": "Κερατσίνι",
+    "country": "GR",
+    "lat": 37.9625,
+    "lon": 23.6197,
+    "group": "gr"
+  },
+  {
+    "id": "gr-736291",
+    "name": "Εύοσμος",
+    "country": "GR",
+    "lat": 40.6706,
+    "lon": 22.9083,
+    "group": "gr"
+  },
+  {
+    "id": "gr-260172",
+    "name": "Χαλάνδρι",
+    "country": "GR",
+    "lat": 38.0237,
+    "lon": 23.8007,
+    "group": "gr"
+  },
+  {
+    "id": "gr-256575",
+    "name": "Νέα Σμύρνη",
+    "country": "GR",
+    "lat": 37.945,
+    "lon": 23.7142,
+    "group": "gr"
+  },
+  {
+    "id": "gr-265243",
+    "name": "Μαρούσι",
+    "country": "GR",
+    "lat": 38.05,
+    "lon": 23.8,
+    "group": "gr"
+  },
+  {
+    "id": "gr-263986",
+    "name": "Άγιος Δημήτριος",
+    "country": "GR",
+    "lat": 37.9333,
+    "lon": 23.7333,
+    "group": "gr"
+  },
+  {
+    "id": "gr-8358544",
+    "name": "Ζωγράφος",
+    "country": "GR",
+    "lat": 37.9757,
+    "lon": 23.7691,
+    "group": "gr"
+  },
+  {
+    "id": "gr-265533",
+    "name": "Αιγάλεω",
+    "country": "GR",
+    "lat": 37.9833,
+    "lon": 23.6833,
+    "group": "gr"
+  },
+  {
+    "id": "gr-256614",
+    "name": "Νέα Ιωνία",
+    "country": "GR",
+    "lat": 38.0357,
+    "lon": 23.7573,
+    "group": "gr"
+  },
+  {
+    "id": "gr-261779",
+    "name": "Γιάννενα",
+    "country": "GR",
+    "lat": 39.6634,
+    "lon": 20.8519,
+    "group": "gr"
+  },
+  {
+    "id": "gr-256075",
+    "name": "Παλαιό Φάληρο",
+    "country": "GR",
+    "lat": 37.9281,
+    "lon": 23.701,
+    "group": "gr"
+  },
+  {
+    "id": "gr-8310183",
+    "name": "Κορυδαλλός",
+    "country": "GR",
+    "lat": 37.9847,
+    "lon": 23.6471,
+    "group": "gr"
+  },
+  {
+    "id": "gr-252664",
+    "name": "Τρίκαλα",
+    "country": "GR",
+    "lat": 39.5549,
+    "lon": 21.7684,
+    "group": "gr"
+  },
+  {
+    "id": "gr-251948",
+    "name": "Βύρωνας",
+    "country": "GR",
+    "lat": 37.9611,
+    "lon": 23.753,
+    "group": "gr"
+  },
+  {
+    "id": "gr-264194",
+    "name": "Αγία Παρασκευή",
+    "country": "GR",
+    "lat": 38.0167,
+    "lon": 23.8333,
+    "group": "gr"
+  },
+  {
+    "id": "gr-262135",
+    "name": "Γαλάτσι",
+    "country": "GR",
+    "lat": 38.0167,
+    "lon": 23.75,
+    "group": "gr"
+  },
+  {
+    "id": "gr-260133",
+    "name": "Χαλκίδα",
+    "country": "GR",
+    "lat": 38.4635,
+    "lon": 23.6028,
+    "group": "gr"
+  },
+  {
+    "id": "gr-255377",
+    "name": "Πετρούπολη",
+    "country": "GR",
+    "lat": 38.0419,
+    "lon": 23.6849,
+    "group": "gr"
+  },
+  {
+    "id": "gr-734330",
+    "name": "Σέρρες",
+    "country": "GR",
+    "lat": 41.085,
+    "lon": 23.5476,
+    "group": "gr"
+  },
+  {
+    "id": "gr-400666",
+    "name": "Ρόδος",
+    "country": "GR",
+    "lat": 36.4356,
+    "lon": 28.222,
+    "group": "gr"
+  },
+  {
+    "id": "gr-261604",
+    "name": "Καλαμάτα",
+    "country": "GR",
+    "lat": 37.0391,
+    "lon": 22.1126,
+    "group": "gr"
+  },
+  {
+    "id": "gr-735861",
+    "name": "Καβάλα",
+    "country": "GR",
+    "lat": 40.9396,
+    "lon": 24.4069,
+    "group": "gr"
+  },
+  {
+    "id": "gr-260114",
+    "name": "Χανιά",
+    "country": "GR",
+    "lat": 35.5112,
+    "lon": 24.0292,
+    "group": "gr"
+  },
+  {
+    "id": "gr-735914",
+    "name": "Κατερίνη",
+    "country": "GR",
+    "lat": 40.2696,
+    "lon": 22.5061,
+    "group": "gr"
+  },
+  {
+    "id": "gr-736928",
+    "name": "Αλεξανδρούπολη",
+    "country": "GR",
+    "lat": 40.8499,
+    "lon": 25.8764,
+    "group": "gr"
+  },
+  {
+    "id": "gr-258620",
+    "name": "Λαμία",
+    "country": "GR",
+    "lat": 38.8995,
+    "lon": 22.4335,
+    "group": "gr"
+  },
+  {
+    "id": "gr-261743",
+    "name": "Ηράκλειο Αττικής",
+    "country": "GR",
+    "lat": 38.0528,
+    "lon": 23.7652,
+    "group": "gr"
+  },
+  {
+    "id": "gr-733840",
+    "name": "Ξάνθη",
+    "country": "GR",
+    "lat": 41.1349,
+    "lon": 24.888,
+    "group": "gr"
+  },
+  {
+    "id": "gr-262426",
+    "name": "Φυλή",
+    "country": "GR",
+    "lat": 38.1024,
+    "lon": 23.669,
+    "group": "gr"
+  },
+  {
+    "id": "gr-259824",
+    "name": "Κηφισιά",
+    "country": "GR",
+    "lat": 38.0744,
+    "lon": 23.8111,
+    "group": "gr"
+  },
+  {
+    "id": "gr-265560",
+    "name": "Αγρίνιο",
+    "country": "GR",
+    "lat": 38.6214,
+    "lon": 21.4078,
+    "group": "gr"
+  },
+  {
+    "id": "gr-734150",
+    "name": "Σταυρούπολη",
+    "country": "GR",
+    "lat": 40.6694,
+    "lon": 22.9381,
+    "group": "gr"
+  },
+  {
+    "id": "gr-260183",
+    "name": "Χαϊδάρι",
+    "country": "GR",
+    "lat": 38.0114,
+    "lon": 23.666,
+    "group": "gr"
+  },
+  {
+    "id": "gr-735640",
+    "name": "Κομοτηνή",
+    "country": "GR",
+    "lat": 41.1176,
+    "lon": 25.4059,
+    "group": "gr"
+  },
+  {
+    "id": "gr-734301",
+    "name": "Συκιές",
+    "country": "GR",
+    "lat": 40.6494,
+    "lon": 22.9508,
+    "group": "gr"
+  },
+  {
+    "id": "gr-736364",
+    "name": "Δράμα",
+    "country": "GR",
+    "lat": 41.1528,
+    "lon": 24.1473,
+    "group": "gr"
+  },
+  {
+    "id": "gr-733905",
+    "name": "Βέροια",
+    "country": "GR",
+    "lat": 40.5244,
+    "lon": 22.2024,
+    "group": "gr"
+  },
+  {
+    "id": "gr-261614",
+    "name": "Άλιμος",
+    "country": "GR",
+    "lat": 37.9103,
+    "lon": 23.7236,
+    "group": "gr"
+  },
+  {
+    "id": "gr-2463679",
+    "name": "Κέρκυρα",
+    "country": "GR",
+    "lat": 39.6244,
+    "lon": 19.9202,
+    "group": "gr"
+  },
+  {
+    "id": "gr-734538",
+    "name": "Πολίχνη",
+    "country": "GR",
+    "lat": 40.6667,
+    "lon": 22.9488,
+    "group": "gr"
+  },
+  {
+    "id": "gr-735481",
+    "name": "Λαγκαδάς",
+    "country": "GR",
+    "lat": 40.75,
+    "lon": 23.0667,
+    "group": "gr"
+  },
+  {
+    "id": "gr-734643",
+    "name": "Πυλαία",
+    "country": "GR",
+    "lat": 40.5992,
+    "lon": 22.9861,
+    "group": "gr"
+  },
+  {
+    "id": "gr-735563",
+    "name": "Κοζάνη",
+    "country": "GR",
+    "lat": 40.2993,
+    "lon": 21.7898,
+    "group": "gr"
+  },
+  {
+    "id": "gr-8358563",
+    "name": "Άγιοι Ανάργυροι",
+    "country": "GR",
+    "lat": 38.0301,
+    "lon": 23.7238,
+    "group": "gr"
+  },
+  {
+    "id": "gr-264516",
+    "name": "Αργυρούπολη",
+    "country": "GR",
+    "lat": 37.9059,
+    "lon": 23.7504,
+    "group": "gr"
+  },
+  {
+    "id": "gr-264888",
+    "name": "Άνω Λιόσια",
+    "country": "GR",
+    "lat": 38.0833,
+    "lon": 23.7,
+    "group": "gr"
+  },
+  {
+    "id": "gr-260989",
+    "name": "Καρδίτσα",
+    "country": "GR",
+    "lat": 39.3648,
+    "lon": 21.9219,
+    "group": "gr"
+  },
+  {
+    "id": "gr-254352",
+    "name": "Ρέθυμνο",
+    "country": "GR",
+    "lat": 35.3655,
+    "lon": 24.4823,
+    "group": "gr"
+  },
+  {
+    "id": "gr-252910",
+    "name": "Θήβα",
+    "country": "GR",
+    "lat": 38.325,
+    "lon": 23.3189,
+    "group": "gr"
+  },
+  {
+    "id": "gr-9034728",
+    "name": "Νέα Ιωνία Μαγνησίας",
+    "country": "GR",
+    "lat": 39.379,
+    "lon": 22.9275,
+    "group": "gr"
+  },
+  {
+    "id": "gr-259949",
+    "name": "Χολαργός",
+    "country": "GR",
+    "lat": 38.0,
+    "lon": 23.8,
+    "group": "gr"
+  },
+  {
+    "id": "gr-6324534",
+    "name": "Βριλήσσια",
+    "country": "GR",
+    "lat": 38.0338,
+    "lon": 23.8296,
+    "group": "gr"
+  },
+  {
+    "id": "gr-264445",
+    "name": "Ασπρόπυργος",
+    "country": "GR",
+    "lat": 38.0613,
+    "lon": 23.5897,
+    "group": "gr"
+  },
+  {
+    "id": "gr-259289",
+    "name": "Κόρινθος",
+    "country": "GR",
+    "lat": 37.9401,
+    "lon": 22.9513,
+    "group": "gr"
+  },
+  {
+    "id": "gr-734426",
+    "name": "Πτολεμαΐδα",
+    "country": "GR",
+    "lat": 40.5147,
+    "lon": 21.6786,
+    "group": "gr"
+  },
+  {
+    "id": "gr-735803",
+    "name": "Χαλκηδόνα",
+    "country": "GR",
+    "lat": 40.7318,
+    "lon": 22.5999,
+    "group": "gr"
+  },
+  {
+    "id": "gr-8201845",
+    "name": "Γέρακας",
+    "country": "GR",
+    "lat": 38.0228,
+    "lon": 23.8576,
+    "group": "gr"
+  },
+  {
+    "id": "gr-259128",
+    "name": "Μεταμόρφωση",
+    "country": "GR",
+    "lat": 38.0658,
+    "lon": 23.7636,
+    "group": "gr"
+  },
+  {
+    "id": "gr-261249",
+    "name": "Καματερό",
+    "country": "GR",
+    "lat": 38.0559,
+    "lon": 23.7051,
+    "group": "gr"
+  },
+  {
+    "id": "gr-251780",
+    "name": "Βούλα",
+    "country": "GR",
+    "lat": 37.8422,
+    "lon": 23.7765,
+    "group": "gr"
+  },
+  {
+    "id": "gr-256866",
+    "name": "Μυτιλήνη",
+    "country": "GR",
+    "lat": 39.1077,
+    "lon": 26.5553,
+    "group": "gr"
+  },
+  {
+    "id": "gr-733776",
+    "name": "Γιαννιτσά",
+    "country": "GR",
+    "lat": 40.7919,
+    "lon": 22.4075,
+    "group": "gr"
+  },
+  {
+    "id": "gr-736336",
+    "name": "Ελευθέριο - Κορδελιό",
+    "country": "GR",
+    "lat": 40.6639,
+    "lon": 22.8969,
+    "group": "gr"
+  },
+  {
+    "id": "gr-252601",
+    "name": "Τρίπολη",
+    "country": "GR",
+    "lat": 37.5096,
+    "lon": 22.3788,
+    "group": "gr"
+  },
+  {
+    "id": "gr-264111",
+    "name": "Αγία Βαρβάρα",
+    "country": "GR",
+    "lat": 37.9894,
+    "lon": 23.6601,
+    "group": "gr"
+  },
+  {
+    "id": "gr-261678",
+    "name": "Καισαριανή",
+    "country": "GR",
+    "lat": 37.9634,
+    "lon": 23.7652,
+    "group": "gr"
+  },
+  {
+    "id": "gr-11747175",
+    "name": "Νεάπολη Θεσσαλονίκης",
+    "country": "GR",
+    "lat": 40.6532,
+    "lon": 22.9416,
+    "group": "gr"
+  },
+  {
+    "id": "gr-256621",
+    "name": "Νέα Φιλαδέλφεια",
+    "country": "GR",
+    "lat": 38.0349,
+    "lon": 23.7381,
+    "group": "gr"
+  },
+  {
+    "id": "gr-256750",
+    "name": "Μοσχάτο",
+    "country": "GR",
+    "lat": 37.9479,
+    "lon": 23.6788,
+    "group": "gr"
+  },
+  {
+    "id": "gr-255588",
+    "name": "Πέραμα",
+    "country": "GR",
+    "lat": 37.9678,
+    "lon": 23.5721,
+    "group": "gr"
+  },
+  {
+    "id": "gr-254144",
+    "name": "Σαλαμίνα",
+    "country": "GR",
+    "lat": 37.9643,
+    "lon": 23.4965,
+    "group": "gr"
+  },
+  {
+    "id": "gr-262752",
+    "name": "Ελευσίνα",
+    "country": "GR",
+    "lat": 38.0414,
+    "lon": 23.543,
+    "group": "gr"
+  },
+  {
+    "id": "gr-259973",
+    "name": "Χίος",
+    "country": "GR",
+    "lat": 38.3687,
+    "lon": 26.1372,
+    "group": "gr"
+  },
+  {
+    "id": "gr-257365",
+    "name": "Μέγαρα",
+    "country": "GR",
+    "lat": 37.9947,
+    "lon": 23.3432,
+    "group": "gr"
+  },
+  {
+    "id": "gr-735736",
+    "name": "Κιλκίς",
+    "country": "GR",
+    "lat": 40.993,
+    "lon": 22.8743,
+    "group": "gr"
+  },
+  {
+    "id": "gr-263312",
+    "name": "Δάφνη",
+    "country": "GR",
+    "lat": 37.95,
+    "lon": 23.7344,
+    "group": "gr"
+  },
+  {
+    "id": "gr-257302",
+    "name": "Μελίσσια",
+    "country": "GR",
+    "lat": 38.05,
+    "lon": 23.8333,
+    "group": "gr"
+  },
+  {
+    "id": "gr-255229",
+    "name": "Πύργος",
+    "country": "GR",
+    "lat": 37.6751,
+    "lon": 21.441,
+    "group": "gr"
+  },
+  {
+    "id": "gr-264670",
+    "name": "Άργος",
+    "country": "GR",
+    "lat": 37.6333,
+    "lon": 22.7333,
+    "group": "gr"
+  },
+  {
+    "id": "gr-258038",
+    "name": "Άρτεμη",
+    "country": "GR",
+    "lat": 37.9673,
+    "lon": 23.9968,
+    "group": "gr"
+  },
+  {
+    "id": "gr-264559",
+    "name": "Άρτα",
+    "country": "GR",
+    "lat": 39.1601,
+    "lon": 20.9856,
+    "group": "gr"
+  },
+  {
+    "id": "gr-258463",
+    "name": "Λιβαδειά",
+    "country": "GR",
+    "lat": 38.4362,
+    "lon": 22.8767,
+    "group": "gr"
+  },
+  {
+    "id": "gr-8358562",
+    "name": "Πεύκη",
+    "country": "GR",
+    "lat": 38.0602,
+    "lon": 23.7926,
+    "group": "gr"
+  },
+  {
+    "id": "gr-734883",
+    "name": "Ωραιόκαστρο",
+    "country": "GR",
+    "lat": 40.7308,
+    "lon": 22.9172,
+    "group": "gr"
+  },
+  {
+    "id": "gr-265500",
+    "name": "Αίγιο",
+    "country": "GR",
+    "lat": 38.2486,
+    "lon": 22.0819,
+    "group": "gr"
+  },
+  {
+    "id": "gr-735030",
+    "name": "Νάουσα",
+    "country": "GR",
+    "lat": 40.6294,
+    "lon": 22.0681,
+    "group": "gr"
+  },
+  {
+    "id": "gr-259245",
+    "name": "Κως",
+    "country": "GR",
+    "lat": 36.8929,
+    "lon": 27.2877,
+    "group": "gr"
+  },
+  {
+    "id": "gr-259251",
+    "name": "Κορωπί",
+    "country": "GR",
+    "lat": 37.8989,
+    "lon": 23.8718,
+    "group": "gr"
+  },
+  {
+    "id": "gr-736357",
+    "name": "Έδεσσα",
+    "country": "GR",
+    "lat": 40.8026,
+    "lon": 22.0475,
+    "group": "gr"
+  },
+  {
+    "id": "gr-256622",
+    "name": "Νέα Ερυθραία",
+    "country": "GR",
+    "lat": 38.0927,
+    "lon": 23.8222,
+    "group": "gr"
+  },
+  {
+    "id": "gr-734712",
+    "name": "Περαία",
+    "country": "GR",
+    "lat": 40.4987,
+    "lon": 22.9262,
+    "group": "gr"
+  },
+  {
+    "id": "gr-256598",
+    "name": "Νέα Μάκρη",
+    "country": "GR",
+    "lat": 38.0873,
+    "lon": 23.9764,
+    "group": "gr"
+  },
+  {
+    "id": "gr-735764",
+    "name": "Χορτιάτης",
+    "country": "GR",
+    "lat": 40.6095,
+    "lon": 23.1001,
+    "group": "gr"
+  },
+  {
+    "id": "gr-736229",
+    "name": "Φλώρινα",
+    "country": "GR",
+    "lat": 40.782,
+    "lon": 21.4098,
+    "group": "gr"
+  },
+  {
+    "id": "gr-734771",
+    "name": "Πανόραμα",
+    "country": "GR",
+    "lat": 40.5878,
+    "lon": 23.0315,
+    "group": "gr"
+  },
+  {
+    "id": "gr-254698",
+    "name": "Πρέβεζα",
+    "country": "GR",
+    "lat": 38.9562,
+    "lon": 20.7505,
+    "group": "gr"
+  },
+  {
+    "id": "gr-265252",
+    "name": "Αμαλιάδα",
+    "country": "GR",
+    "lat": 37.7984,
+    "lon": 21.3507,
+    "group": "gr"
+  },
+  {
+    "id": "gr-252270",
+    "name": "Βάρη",
+    "country": "GR",
+    "lat": 37.8332,
+    "lon": 23.8031,
+    "group": "gr"
+  },
+  {
+    "id": "gr-262719",
+    "name": "Ελληνικό",
+    "country": "GR",
+    "lat": 37.8901,
+    "lon": 23.7441,
+    "group": "gr"
+  },
+  {
+    "id": "gr-253394",
+    "name": "Σπάρτη",
+    "country": "GR",
+    "lat": 37.0745,
+    "lon": 22.4301,
+    "group": "gr"
+  },
+  {
+    "id": "gr-734880",
+    "name": "Ορεστιάδα",
+    "country": "GR",
+    "lat": 41.5031,
+    "lon": 26.5297,
+    "group": "gr"
+  },
+  {
+    "id": "gr-736296",
+    "name": "Ευκαρπία",
+    "country": "GR",
+    "lat": 40.688,
+    "lon": 22.9535,
+    "group": "gr"
+  },
+  {
+    "id": "gr-8478257",
+    "name": "Ρέντης",
+    "country": "GR",
+    "lat": 37.9649,
+    "lon": 23.6651,
+    "group": "gr"
+  },
+  {
+    "id": "gr-x0",
+    "name": "Ερμούπολη",
+    "country": "GR",
+    "lat": 37.4443,
+    "lon": 24.9417,
+    "group": "gr"
+  },
+  {
+    "id": "gr-x1",
+    "name": "Ζάκυνθος",
+    "country": "GR",
+    "lat": 37.787,
+    "lon": 20.899,
+    "group": "gr"
+  },
+  {
+    "id": "gr-x2",
+    "name": "Αργοστόλι",
+    "country": "GR",
+    "lat": 38.1753,
+    "lon": 20.4896,
+    "group": "gr"
+  },
+  {
+    "id": "gr-x3",
+    "name": "Λευκάδα",
+    "country": "GR",
+    "lat": 38.8337,
+    "lon": 20.7069,
+    "group": "gr"
+  },
+  {
+    "id": "gr-x4",
+    "name": "Καρπενήσι",
+    "country": "GR",
+    "lat": 38.9167,
+    "lon": 21.7833,
+    "group": "gr"
+  },
+  {
+    "id": "gr-x5",
+    "name": "Ηγουμενίτσα",
+    "country": "GR",
+    "lat": 39.5,
+    "lon": 20.2667,
+    "group": "gr"
+  },
+  {
+    "id": "gr-x6",
+    "name": "Γρεβενά",
+    "country": "GR",
+    "lat": 40.0833,
+    "lon": 21.4281,
+    "group": "gr"
+  },
+  {
+    "id": "gr-x7",
+    "name": "Καστοριά",
+    "country": "GR",
+    "lat": 40.5192,
+    "lon": 21.2687,
+    "group": "gr"
+  },
+  {
+    "id": "gr-x8",
+    "name": "Πολύγυρος",
+    "country": "GR",
+    "lat": 40.375,
+    "lon": 23.4403,
+    "group": "gr"
+  },
+  {
+    "id": "gr-x9",
+    "name": "Άμφισσα",
+    "country": "GR",
+    "lat": 38.5278,
+    "lon": 22.375,
+    "group": "gr"
+  },
+  {
+    "id": "gr-x10",
+    "name": "Ναύπλιο",
+    "country": "GR",
+    "lat": 37.5673,
+    "lon": 22.8062,
+    "group": "gr"
+  },
+  {
+    "id": "gr-x11",
+    "name": "Μύκονος",
+    "country": "GR",
+    "lat": 37.4467,
+    "lon": 25.3289,
+    "group": "gr"
+  },
+  {
+    "id": "gr-x12",
+    "name": "Νάξος",
+    "country": "GR",
+    "lat": 37.1036,
+    "lon": 25.3763,
+    "group": "gr"
+  },
+  {
+    "id": "gr-x13",
+    "name": "Πάρος (Παροικιά)",
+    "country": "GR",
+    "lat": 37.0853,
+    "lon": 25.15,
+    "group": "gr"
+  },
+  {
+    "id": "gr-x14",
+    "name": "Σαντορίνη (Φηρά)",
+    "country": "GR",
+    "lat": 36.4167,
+    "lon": 25.4333,
+    "group": "gr"
+  },
+  {
+    "id": "gr-x15",
+    "name": "Σάμος (Βαθύ)",
+    "country": "GR",
+    "lat": 37.7544,
+    "lon": 26.9779,
+    "group": "gr"
+  },
+  {
+    "id": "gr-x16",
+    "name": "Κάλυμνος",
+    "country": "GR",
+    "lat": 36.95,
+    "lon": 26.9833,
+    "group": "gr"
+  },
+  {
+    "id": "gr-x17",
+    "name": "Άγιος Κήρυκος Ικαρίας",
+    "country": "GR",
+    "lat": 37.6167,
+    "lon": 26.2833,
+    "group": "gr"
+  },
+  {
+    "id": "gr-x18",
+    "name": "Μύρινα Λήμνου",
+    "country": "GR",
+    "lat": 39.8667,
+    "lon": 25.0667,
+    "group": "gr"
+  },
+  {
+    "id": "gr-x19",
+    "name": "Σκιάθος",
+    "country": "GR",
+    "lat": 39.1633,
+    "lon": 23.4903,
+    "group": "gr"
+  },
+  {
+    "id": "gr-x20",
+    "name": "Σκόπελος",
+    "country": "GR",
+    "lat": 39.1217,
+    "lon": 23.7283,
+    "group": "gr"
+  },
+  {
+    "id": "gr-x21",
+    "name": "Κάρπαθος",
+    "country": "GR",
+    "lat": 35.5072,
+    "lon": 27.2131,
+    "group": "gr"
+  },
+  {
+    "id": "gr-x22",
+    "name": "Άγιος Νικόλαος Κρήτης",
+    "country": "GR",
+    "lat": 35.19,
+    "lon": 25.7194,
+    "group": "gr"
+  },
+  {
+    "id": "gr-x23",
+    "name": "Ιεράπετρα",
+    "country": "GR",
+    "lat": 35.0119,
+    "lon": 25.7406,
+    "group": "gr"
+  },
+  {
+    "id": "gr-x24",
+    "name": "Σητεία",
+    "country": "GR",
+    "lat": 35.2,
+    "lon": 26.1,
+    "group": "gr"
+  },
+  {
+    "id": "gr-x25",
+    "name": "Μονεμβασιά",
+    "country": "GR",
+    "lat": 36.6869,
+    "lon": 23.0561,
+    "group": "gr"
+  },
+  {
+    "id": "gr-x26",
+    "name": "Πύλος",
+    "country": "GR",
+    "lat": 36.9139,
+    "lon": 21.6958,
+    "group": "gr"
+  },
+  {
+    "id": "gr-x27",
+    "name": "Αρχαία Ολυμπία",
+    "country": "GR",
+    "lat": 37.6383,
+    "lon": 21.6258,
+    "group": "gr"
+  },
+  {
+    "id": "gr-x28A",
+    "name": "Αράχωβα",
+    "country": "GR",
+    "lat": 38.47982365320099,
+    "lon": 22.583189184097986,
+    "group": "gr"
+  },
+
+  {
+    "id": "gr-x28B",
+    "name": "Καλύβια Λιβαδιού Αράχωβας",
+    "country": "GR",
+    "lat": 38.51392618896314,
+    "lon": 22.5476046952056,
+    "group": "gr"
+  },
+  {
+    "id": "gr-x28",
+    "name": "Δελφοί",
+    "country": "GR",
+    "lat": 38.4824,
+    "lon": 22.501,
+    "group": "gr"
+  },
+  {
+    "id": "gr-x29",
+    "name": "Καλαμπάκα",
+    "country": "GR",
+    "lat": 39.705,
+    "lon": 21.631,
+    "group": "gr"
+  },
+  {
+    "id": "gr-x30",
+    "name": "Ύδρα",
+    "country": "GR",
+    "lat": 37.35,
+    "lon": 23.4667,
+    "group": "gr"
+  },
+  {
+    "id": "gr-x31",
+    "name": "Αίγινα",
+    "country": "GR",
+    "lat": 37.7467,
+    "lon": 23.4264,
+    "group": "gr"
+  },
+  {
+    "id": "gr-x32",
+    "name": "Πόρος",
+    "country": "GR",
+    "lat": 37.5,
+    "lon": 23.4667,
+    "group": "gr"
+  },
+  {
+    "id": "gr-x33",
+    "name": "Σπέτσες",
+    "country": "GR",
+    "lat": 37.2667,
+    "lon": 23.15,
+    "group": "gr"
+  },
+  {
+    "id": "gr-x34",
+    "name": "Σαμοθράκη",
+    "country": "GR",
+    "lat": 40.4833,
+    "lon": 25.5167,
+    "group": "gr"
+  },
+  {
+    "id": "gr-x35",
+    "name": "Θάσος (Λιμένας)",
+    "country": "GR",
+    "lat": 40.7833,
+    "lon": 24.7167,
+    "group": "gr"
+  },
+  {
+    "id": "gr-x36",
+    "name": "Ιστιαία",
+    "country": "GR",
+    "lat": 38.95,
+    "lon": 23.15,
+    "group": "gr"
+  },
+  {
+    "id": "gr-x37",
+    "name": "Λουτράκι",
+    "country": "GR",
+    "lat": 37.9833,
+    "lon": 22.9667,
+    "group": "gr"
+  },
+  {
+    "id": "gr-x38",
+    "name": "Ξυλόκαστρο",
+    "country": "GR",
+    "lat": 38.075,
+    "lon": 22.6333,
+    "group": "gr"
+  },
+  {
+    "id": "gr-x39",
+    "name": "Τύρναβος",
+    "country": "GR",
+    "lat": 39.7333,
+    "lon": 22.2833,
+    "group": "gr"
+  },
+  {
+    "id": "gr-x40",
+    "name": "Φάρσαλα",
+    "country": "GR",
+    "lat": 39.2967,
+    "lon": 22.3833,
+    "group": "gr"
+  },
+  {
+    "id": "gr-x41",
+    "name": "Παραμυθιά",
+    "country": "GR",
+    "lat": 39.4667,
+    "lon": 20.5333,
+    "group": "gr"
+  },
+  {
+    "id": "gr-x42",
+    "name": "Μέτσοβο",
+    "country": "GR",
+    "lat": 39.77,
+    "lon": 21.18,
+    "group": "gr"
+  },
+  {
+    "id": "gr-x43",
+    "name": "Γύθειο",
+    "country": "GR",
+    "lat": 36.76,
+    "lon": 22.5667,
+    "group": "gr"
+  },
+  {
+    "id": "gr-x44",
+    "name": "Διδυμότειχο",
+    "country": "GR",
+    "lat": 41.35,
+    "lon": 26.5,
+    "group": "gr"
+  },
+  {
+    "id": "gr-x45",
+    "name": "Σουφλί",
+    "country": "GR",
+    "lat": 41.2,
+    "lon": 26.3,
+    "group": "gr"
+  },
+  {
+    "id": "gr-x46",
+    "name": "Καλάβρυτα",
+    "country": "GR",
+    "lat": 38.0333,
+    "lon": 22.1117,
+    "group": "gr"
+  },
+  {
+    "id": "gr-x47",
+    "name": "Τήνος",
+    "country": "GR",
+    "lat": 37.5333,
+    "lon": 25.1667,
+    "group": "gr"
+  },
+  {
+    "id": "gr-x48",
+    "name": "Μήλος (Αδάμας)",
+    "country": "GR",
+    "lat": 36.7167,
+    "lon": 24.4333,
+    "group": "gr"
+  },
+  {
+    "id": "gr-x49",
+    "name": "Άνδρος",
+    "country": "GR",
+    "lat": 37.8333,
+    "lon": 24.9333,
+    "group": "gr"
+  },
+  {
+    "id": "gr-x50",
+    "name": "Σκύρος",
+    "country": "GR",
+    "lat": 38.9,
+    "lon": 24.5667,
+    "group": "gr"
+  },
+  {
+    "id": "gr-x51",
+    "name": "Κάρυστος",
+    "country": "GR",
+    "lat": 38.0167,
+    "lon": 24.4167,
+    "group": "gr"
+  },
+  {
+    "id": "gr-x52",
+    "name": "Ίος",
+    "country": "GR",
+    "lat": 36.7228,
+    "lon": 25.2819,
+    "group": "gr"
+  },
+  {
+    "id": "gr-x53",
+    "name": "Πάτμος",
+    "country": "GR",
+    "lat": 37.3167,
+    "lon": 26.55,
+    "group": "gr"
+  },
+  {
+    "id": "gr-x54",
+    "name": "Σύμη",
+    "country": "GR",
+    "lat": 36.6,
+    "lon": 27.85,
+    "group": "gr"
+  },
+  {
+    "id": "gr-x55",
+    "name": "Θήρα (Οία)",
+    "country": "GR",
+    "lat": 36.4618,
+    "lon": 25.3753,
+    "group": "gr"
+  },
+  {
+    "id": "cap-sm",
+    "name": "Άγιος Μαρίνος",
+    "country": "SM",
+    "lat": 43.9367,
+    "lon": 12.4464,
+    "group": "capital"
+  },
+  {
+    "id": "cap-tr",
+    "name": "Άγκυρα",
+    "country": "TR",
+    "lat": 39.9199,
+    "lon": 32.8543,
+    "group": "capital"
+  },
+  {
+    "id": "cap-gh",
+    "name": "Άκρα",
+    "country": "GH",
+    "lat": 5.556,
+    "lon": -0.1969,
+    "group": "capital"
+  },
+  {
+    "id": "cap-nl",
+    "name": "Άμστερνταμ",
+    "country": "NL",
+    "lat": 52.374,
+    "lon": 4.8897,
+    "group": "capital"
+  },
+  {
+    "id": "cap-no",
+    "name": "Όσλο",
+    "country": "NO",
+    "lat": 59.9127,
+    "lon": 10.7461,
+    "group": "capital"
+  },
+  {
+    "id": "cap-cu",
+    "name": "Αβάνα",
+    "country": "CU",
+    "lat": 23.133,
+    "lon": -82.383,
+    "group": "capital"
+  },
+  {
+    "id": "cap-dz",
+    "name": "Αλγέρι",
+    "country": "DZ",
+    "lat": 36.7323,
+    "lon": 3.0875,
+    "group": "capital"
+  },
+  {
+    "id": "cap-jo",
+    "name": "Αμμάν",
+    "country": "JO",
+    "lat": 31.9552,
+    "lon": 35.945,
+    "group": "capital"
+  },
+  {
+    "id": "cap-ae",
+    "name": "Αμπού Ντάμπι",
+    "country": "AE",
+    "lat": 24.4512,
+    "lon": 54.397,
+    "group": "capital"
+  },
+  {
+    "id": "cap-ng",
+    "name": "Αμπούτζα",
+    "country": "NG",
+    "lat": 9.0579,
+    "lon": 7.4951,
+    "group": "capital"
+  },
+  {
+    "id": "cap-ad",
+    "name": "Ανδόρα λα Βέλα",
+    "country": "AD",
+    "lat": 42.5078,
+    "lon": 1.5211,
+    "group": "capital"
+  },
+  {
+    "id": "cap-et",
+    "name": "Αντίς Αμπέμπα",
+    "country": "ET",
+    "lat": 9.025,
+    "lon": 38.7469,
+    "group": "capital"
+  },
+  {
+    "id": "cap-mg",
+    "name": "Ανταναναρίβο",
+    "country": "MG",
+    "lat": -18.9137,
+    "lon": 47.5361,
+    "group": "capital"
+  },
+  {
+    "id": "cap-vn",
+    "name": "Ανόι",
+    "country": "VN",
+    "lat": 21.0245,
+    "lon": 105.8412,
+    "group": "capital"
+  },
+  {
+    "id": "cap-ws",
+    "name": "Απία",
+    "country": "WS",
+    "lat": -13.8333,
+    "lon": -171.7667,
+    "group": "capital"
+  },
+  {
+    "id": "cap-tm",
+    "name": "Ασγκαμπάτ",
+    "country": "TM",
+    "lat": 37.95,
+    "lon": 58.3833,
+    "group": "capital"
+  },
+  {
+    "id": "cap-er",
+    "name": "Ασμάρα",
+    "country": "ER",
+    "lat": 15.3381,
+    "lon": 38.9318,
+    "group": "capital"
+  },
+  {
+    "id": "cap-py",
+    "name": "Ασουνσιόν",
+    "country": "PY",
+    "lat": -25.2865,
+    "lon": -57.647,
+    "group": "capital"
+  },
+  {
+    "id": "cap-kz",
+    "name": "Αστάνα",
+    "country": "KZ",
+    "lat": 51.1694,
+    "lon": 71.4491,
+    "group": "capital"
+  },
+  {
+    "id": "cap-ch",
+    "name": "Βέρνη",
+    "country": "CH",
+    "lat": 46.9481,
+    "lon": 7.4474,
+    "group": "capital"
+  },
+  {
+    "id": "cap-lt",
+    "name": "Βίλνιους",
+    "country": "LT",
+    "lat": 54.6892,
+    "lon": 25.2798,
+    "group": "capital"
+  },
+  {
+    "id": "cap-na",
+    "name": "Βίντχουκ",
+    "country": "NA",
+    "lat": -22.5594,
+    "lon": 17.0832,
+    "group": "capital"
+  },
+  {
+    "id": "cap-iq",
+    "name": "Βαγδάτη",
+    "country": "IQ",
+    "lat": 33.3406,
+    "lon": 44.4009,
+    "group": "capital"
+  },
+  {
+    "id": "cap-li",
+    "name": "Βαδούζ",
+    "country": "LI",
+    "lat": 47.1415,
+    "lon": 9.5215,
+    "group": "capital"
+  },
+  {
+    "id": "cap-mt",
+    "name": "Βαλέτα",
+    "country": "MT",
+    "lat": 35.8997,
+    "lon": 14.5148,
+    "group": "capital"
+  },
+  {
+    "id": "cap-pl",
+    "name": "Βαρσοβία",
+    "country": "PL",
+    "lat": 52.2298,
+    "lon": 21.0118,
+    "group": "capital"
+  },
+  {
+    "id": "cap-va",
+    "name": "Βατικανό",
+    "country": "VA",
+    "lat": 41.9029,
+    "lon": 12.4534,
+    "group": "capital"
+  },
+  {
+    "id": "cap-rs",
+    "name": "Βελιγράδι",
+    "country": "RS",
+    "lat": 44.804,
+    "lon": 20.4651,
+    "group": "capital"
+  },
+  {
+    "id": "cap-de",
+    "name": "Βερολίνο",
+    "country": "DE",
+    "lat": 52.5244,
+    "lon": 13.4105,
+    "group": "capital"
+  },
+  {
+    "id": "cap-lb",
+    "name": "Βηρυτός",
+    "country": "LB",
+    "lat": 33.8933,
+    "lon": 35.5016,
+    "group": "capital"
+  },
+  {
+    "id": "cap-at",
+    "name": "Βιέννη",
+    "country": "AT",
+    "lat": 48.2085,
+    "lon": 16.3721,
+    "group": "capital"
+  },
+  {
+    "id": "cap-la",
+    "name": "Βιεντιάν",
+    "country": "LA",
+    "lat": 17.9667,
+    "lon": 102.6,
+    "group": "capital"
+  },
+  {
+    "id": "cap-sc",
+    "name": "Βικτώρια",
+    "country": "SC",
+    "lat": -4.62,
+    "lon": 55.455,
+    "group": "capital"
+  },
+  {
+    "id": "cap-hu",
+    "name": "Βουδαπέστη",
+    "country": "HU",
+    "lat": 47.4984,
+    "lon": 19.0404,
+    "group": "capital"
+  },
+  {
+    "id": "cap-ro",
+    "name": "Βουκουρέστι",
+    "country": "RO",
+    "lat": 44.4323,
+    "lon": 26.1063,
+    "group": "capital"
+  },
+  {
+    "id": "cap-be",
+    "name": "Βρυξέλλες",
+    "country": "BE",
+    "lat": 50.8505,
+    "lon": 4.3488,
+    "group": "capital"
+  },
+  {
+    "id": "cap-nr",
+    "name": "Γιάρεν",
+    "country": "NR",
+    "lat": -0.5508,
+    "lon": 166.9252,
+    "group": "capital"
+  },
+  {
+    "id": "cap-ci",
+    "name": "Γιαμουσούκρο",
+    "country": "CI",
+    "lat": 6.8205,
+    "lon": -5.2767,
+    "group": "capital"
+  },
+  {
+    "id": "cap-cm",
+    "name": "Γιαουντέ",
+    "country": "CM",
+    "lat": 3.8667,
+    "lon": 11.5167,
+    "group": "capital"
+  },
+  {
+    "id": "cap-bw",
+    "name": "Γκαμπορόνε",
+    "country": "BW",
+    "lat": -24.6545,
+    "lon": 25.9086,
+    "group": "capital"
+  },
+  {
+    "id": "cap-bi",
+    "name": "Γκιτέγκα",
+    "country": "BI",
+    "lat": -3.4271,
+    "lon": 29.9246,
+    "group": "capital"
+  },
+  {
+    "id": "cap-sy",
+    "name": "Δαμασκός",
+    "country": "SY",
+    "lat": 33.5102,
+    "lon": 36.2913,
+    "group": "capital"
+  },
+  {
+    "id": "cap-ie",
+    "name": "Δουβλίνο",
+    "country": "IE",
+    "lat": 53.3331,
+    "lon": -6.2489,
+    "group": "capital"
+  },
+  {
+    "id": "cap-fi",
+    "name": "Ελσίνκι",
+    "country": "FI",
+    "lat": 60.1695,
+    "lon": 24.9354,
+    "group": "capital"
+  },
+  {
+    "id": "cap-am",
+    "name": "Ερεβάν",
+    "country": "AM",
+    "lat": 40.1776,
+    "lon": 44.5126,
+    "group": "capital"
+  },
+  {
+    "id": "cap-hr",
+    "name": "Ζάγκρεμπ",
+    "country": "HR",
+    "lat": 45.8144,
+    "lon": 15.978,
+    "group": "capital"
+  },
+  {
+    "id": "cap-il",
+    "name": "Ιερουσαλήμ",
+    "country": "IL",
+    "lat": 31.769,
+    "lon": 35.2163,
+    "group": "capital"
+  },
+  {
+    "id": "cap-pk",
+    "name": "Ισλαμαμπάντ",
+    "country": "PK",
+    "lat": 33.7215,
+    "lon": 73.0433,
+    "group": "capital"
+  },
+  {
+    "id": "cap-eg",
+    "name": "Κάιρο",
+    "country": "EG",
+    "lat": 30.0626,
+    "lon": 31.2497,
+    "group": "capital"
+  },
+  {
+    "id": "cap-lc",
+    "name": "Κάστρις",
+    "country": "LC",
+    "lat": 13.9957,
+    "lon": -61.0061,
+    "group": "capital"
+  },
+  {
+    "id": "cap-ua",
+    "name": "Κίεβο",
+    "country": "UA",
+    "lat": 50.4547,
+    "lon": 30.5238,
+    "group": "capital"
+  },
+  {
+    "id": "cap-vc",
+    "name": "Κίνγκσταουν",
+    "country": "VC",
+    "lat": 13.1553,
+    "lon": -61.2274,
+    "group": "capital"
+  },
+  {
+    "id": "cap-jm",
+    "name": "Κίνγκστον",
+    "country": "JM",
+    "lat": 17.997,
+    "lon": -76.7936,
+    "group": "capital"
+  },
+  {
+    "id": "cap-ec",
+    "name": "Κίτο",
+    "country": "EC",
+    "lat": -0.2298,
+    "lon": -78.525,
+    "group": "capital"
+  },
+  {
+    "id": "cap-ug",
+    "name": "Καμπάλα",
+    "country": "UG",
+    "lat": 0.3163,
+    "lon": 32.5822,
+    "group": "capital"
+  },
+  {
+    "id": "cap-au",
+    "name": "Καμπέρα",
+    "country": "AU",
+    "lat": -35.2835,
+    "lon": 149.1281,
+    "group": "capital"
+  },
+  {
+    "id": "cap-af",
+    "name": "Καμπούλ",
+    "country": "AF",
+    "lat": 34.5281,
+    "lon": 69.1723,
+    "group": "capital"
+  },
+  {
+    "id": "cap-ve",
+    "name": "Καράκας",
+    "country": "VE",
+    "lat": 10.488,
+    "lon": -66.8792,
+    "group": "capital"
+  },
+  {
+    "id": "cap-np",
+    "name": "Κατμαντού",
+    "country": "NP",
+    "lat": 27.7017,
+    "lon": 85.3206,
+    "group": "capital"
+  },
+  {
+    "id": "cap-rw",
+    "name": "Κιγκάλι",
+    "country": "RW",
+    "lat": -1.95,
+    "lon": 30.0588,
+    "group": "capital"
+  },
+  {
+    "id": "cap-cd",
+    "name": "Κινσάσα",
+    "country": "CD",
+    "lat": -4.3276,
+    "lon": 15.3136,
+    "group": "capital"
+  },
+  {
+    "id": "cap-md",
+    "name": "Κισινάου",
+    "country": "MD",
+    "lat": 47.009,
+    "lon": 28.8594,
+    "group": "capital"
+  },
+  {
+    "id": "cap-lk",
+    "name": "Κολόμπο",
+    "country": "LK",
+    "lat": 6.9355,
+    "lon": 79.8487,
+    "group": "capital"
+  },
+  {
+    "id": "cap-dk",
+    "name": "Κοπεγχάγη",
+    "country": "DK",
+    "lat": 55.6759,
+    "lon": 12.5655,
+    "group": "capital"
+  },
+  {
+    "id": "cap-my",
+    "name": "Κουάλα Λουμπούρ",
+    "country": "MY",
+    "lat": 3.1412,
+    "lon": 101.6865,
+    "group": "capital"
+  },
+  {
+    "id": "cap-kw",
+    "name": "Κουβέιτ",
+    "country": "KW",
+    "lat": 29.367,
+    "lon": 47.9743,
+    "group": "capital"
+  },
+  {
+    "id": "cap-gn",
+    "name": "Κόνακρι",
+    "country": "GN",
+    "lat": 9.538,
+    "lon": -13.6773,
+    "group": "capital"
+  },
+  {
+    "id": "cap-pe",
+    "name": "Λίμα",
+    "country": "PE",
+    "lat": -12.0432,
+    "lon": -77.0282,
+    "group": "capital"
+  },
+  {
+    "id": "cap-cy",
+    "name": "Λευκωσία",
+    "country": "CY",
+    "lat": 35.1728,
+    "lon": 33.354,
+    "group": "capital"
+  },
+  {
+    "id": "cap-mw",
+    "name": "Λιλόνγκουε",
+    "country": "MW",
+    "lat": -13.9669,
+    "lon": 33.7873,
+    "group": "capital"
+  },
+  {
+    "id": "cap-ga",
+    "name": "Λιμπρεβίλ",
+    "country": "GA",
+    "lat": 0.3924,
+    "lon": 9.4536,
+    "group": "capital"
+  },
+  {
+    "id": "cap-si",
+    "name": "Λιουμπλιάνα",
+    "country": "SI",
+    "lat": 46.0511,
+    "lon": 14.5051,
+    "group": "capital"
+  },
+  {
+    "id": "cap-pt",
+    "name": "Λισαβόνα",
+    "country": "PT",
+    "lat": 38.7251,
+    "lon": -9.1498,
+    "group": "capital"
+  },
+  {
+    "id": "cap-tg",
+    "name": "Λομέ",
+    "country": "TG",
+    "lat": 6.1287,
+    "lon": 1.2215,
+    "group": "capital"
+  },
+  {
+    "id": "cap-gb",
+    "name": "Λονδίνο",
+    "country": "GB",
+    "lat": 51.5085,
+    "lon": -0.1257,
+    "group": "capital"
+  },
+  {
+    "id": "cap-ao",
+    "name": "Λουάντα",
+    "country": "AO",
+    "lat": -8.8368,
+    "lon": 13.2343,
+    "group": "capital"
+  },
+  {
+    "id": "cap-lu",
+    "name": "Λουξεμβούργο",
+    "country": "LU",
+    "lat": 49.6098,
+    "lon": 6.1327,
+    "group": "capital"
+  },
+  {
+    "id": "cap-zm",
+    "name": "Λουσάκα",
+    "country": "ZM",
+    "lat": -15.4067,
+    "lon": 28.2871,
+    "group": "capital"
+  },
+  {
+    "id": "cap-es",
+    "name": "Μαδρίτη",
+    "country": "ES",
+    "lat": 40.4165,
+    "lon": -3.7026,
+    "group": "capital"
+  },
+  {
+    "id": "cap-mh",
+    "name": "Μαζούρο",
+    "country": "MH",
+    "lat": 7.0897,
+    "lon": 171.3803,
+    "group": "capital"
+  },
+  {
+    "id": "cap-gq",
+    "name": "Μαλάμπο",
+    "country": "GQ",
+    "lat": 3.75,
+    "lon": 8.7833,
+    "group": "capital"
+  },
+  {
+    "id": "cap-mv",
+    "name": "Μαλέ",
+    "country": "MV",
+    "lat": 4.1752,
+    "lon": 73.5092,
+    "group": "capital"
+  },
+  {
+    "id": "cap-ni",
+    "name": "Μανάγκουα",
+    "country": "NI",
+    "lat": 12.1328,
+    "lon": -86.2504,
+    "group": "capital"
+  },
+  {
+    "id": "cap-bh",
+    "name": "Μανάμα",
+    "country": "BH",
+    "lat": 26.2279,
+    "lon": 50.5857,
+    "group": "capital"
+  },
+  {
+    "id": "cap-ph",
+    "name": "Μανίλα",
+    "country": "PH",
+    "lat": 14.6042,
+    "lon": 120.9822,
+    "group": "capital"
+  },
+  {
+    "id": "cap-mz",
+    "name": "Μαπούτο",
+    "country": "MZ",
+    "lat": -25.9655,
+    "lon": 32.5832,
+    "group": "capital"
+  },
+  {
+    "id": "cap-ls",
+    "name": "Μασέρου",
+    "country": "LS",
+    "lat": -29.3167,
+    "lon": 27.4833,
+    "group": "capital"
+  },
+  {
+    "id": "cap-om",
+    "name": "Μασκάτ",
+    "country": "OM",
+    "lat": 23.5841,
+    "lon": 58.4078,
+    "group": "capital"
+  },
+  {
+    "id": "cap-by",
+    "name": "Μινσκ",
+    "country": "BY",
+    "lat": 53.9002,
+    "lon": 27.5665,
+    "group": "capital"
+  },
+  {
+    "id": "cap-so",
+    "name": "Μογκαντίσου",
+    "country": "SO",
+    "lat": 2.0371,
+    "lon": 45.3438,
+    "group": "capital"
+  },
+  {
+    "id": "cap-mc",
+    "name": "Μονακό",
+    "country": "MC",
+    "lat": 43.7372,
+    "lon": 7.4215,
+    "group": "capital"
+  },
+  {
+    "id": "cap-lr",
+    "name": "Μονρόβια",
+    "country": "LR",
+    "lat": 6.3005,
+    "lon": -10.7969,
+    "group": "capital"
+  },
+  {
+    "id": "cap-uy",
+    "name": "Μοντεβιδέο",
+    "country": "UY",
+    "lat": -34.9033,
+    "lon": -56.1882,
+    "group": "capital"
+  },
+  {
+    "id": "cap-km",
+    "name": "Μορόνι",
+    "country": "KM",
+    "lat": -11.7022,
+    "lon": 43.2551,
+    "group": "capital"
+  },
+  {
+    "id": "cap-az",
+    "name": "Μπακού",
+    "country": "AZ",
+    "lat": 40.3777,
+    "lon": 49.892,
+    "group": "capital"
+  },
+  {
+    "id": "cap-ml",
+    "name": "Μπαμακό",
+    "country": "ML",
+    "lat": 12.6091,
+    "lon": -7.9752,
+    "group": "capital"
+  },
+  {
+    "id": "cap-sz",
+    "name": "Μπαμπάνε",
+    "country": "SZ",
+    "lat": -26.3167,
+    "lon": 31.1333,
+    "group": "capital"
+  },
+  {
+    "id": "cap-cf",
+    "name": "Μπανγκί",
+    "country": "CF",
+    "lat": 4.3612,
+    "lon": 18.555,
+    "group": "capital"
+  },
+  {
+    "id": "cap-th",
+    "name": "Μπανγκόκ",
+    "country": "TH",
+    "lat": 13.754,
+    "lon": 100.5014,
+    "group": "capital"
+  },
+  {
+    "id": "cap-gm",
+    "name": "Μπανζούλ",
+    "country": "GM",
+    "lat": 13.4527,
+    "lon": -16.578,
+    "group": "capital"
+  },
+  {
+    "id": "cap-bn",
+    "name": "Μπαντάρ Σερί Μπεγκαουάν",
+    "country": "BN",
+    "lat": 4.8903,
+    "lon": 114.9401,
+    "group": "capital"
+  },
+  {
+    "id": "cap-kn",
+    "name": "Μπασετέρ",
+    "country": "KN",
+    "lat": 17.2955,
+    "lon": -62.725,
+    "group": "capital"
+  },
+  {
+    "id": "cap-bz",
+    "name": "Μπελμοπάν",
+    "country": "BZ",
+    "lat": 17.2538,
+    "lon": -88.764,
+    "group": "capital"
+  },
+  {
+    "id": "cap-gw",
+    "name": "Μπισάου",
+    "country": "GW",
+    "lat": 11.8636,
+    "lon": -15.5977,
+    "group": "capital"
+  },
+  {
+    "id": "cap-kg",
+    "name": "Μπισκέκ",
+    "country": "KG",
+    "lat": 42.87,
+    "lon": 74.59,
+    "group": "capital"
+  },
+  {
+    "id": "cap-co",
+    "name": "Μπογκοτά",
+    "country": "CO",
+    "lat": 4.6097,
+    "lon": -74.0817,
+    "group": "capital"
+  },
+  {
+    "id": "cap-ar",
+    "name": "Μπουένος Άιρες",
+    "country": "AR",
+    "lat": -34.6131,
+    "lon": -58.3772,
+    "group": "capital"
+  },
+  {
+    "id": "cap-br",
+    "name": "Μπραζίλια",
+    "country": "BR",
+    "lat": -15.7797,
+    "lon": -47.9297,
+    "group": "capital"
+  },
+  {
+    "id": "cap-cg",
+    "name": "Μπραζαβίλ",
+    "country": "CG",
+    "lat": -4.2661,
+    "lon": 15.2832,
+    "group": "capital"
+  },
+  {
+    "id": "cap-sk",
+    "name": "Μπρατισλάβα",
+    "country": "SK",
+    "lat": 48.1482,
+    "lon": 17.1067,
+    "group": "capital"
+  },
+  {
+    "id": "cap-bb",
+    "name": "Μπριτζτάουν",
+    "country": "BB",
+    "lat": 13.1073,
+    "lon": -59.6202,
+    "group": "capital"
+  },
+  {
+    "id": "cap-ru",
+    "name": "Μόσχα",
+    "country": "RU",
+    "lat": 55.752,
+    "lon": 37.6178,
+    "group": "capital"
+  },
+  {
+    "id": "cap-in",
+    "name": "Νέο Δελχί",
+    "country": "IN",
+    "lat": 28.6519,
+    "lon": 77.2315,
+    "group": "capital"
+  },
+  {
+    "id": "cap-bs",
+    "name": "Νασάου",
+    "country": "BS",
+    "lat": 25.0582,
+    "lon": -77.3431,
+    "group": "capital"
+  },
+  {
+    "id": "cap-mm",
+    "name": "Ναϊπιντό",
+    "country": "MM",
+    "lat": 19.745,
+    "lon": 96.1297,
+    "group": "capital"
+  },
+  {
+    "id": "cap-ke",
+    "name": "Ναϊρόμπι",
+    "country": "KE",
+    "lat": -1.2833,
+    "lon": 36.8167,
+    "group": "capital"
+  },
+  {
+    "id": "cap-pw",
+    "name": "Νγκερουλμούντ",
+    "country": "PW",
+    "lat": 7.5006,
+    "lon": 134.6243,
+    "group": "capital"
+  },
+  {
+    "id": "cap-ne",
+    "name": "Νιαμέ",
+    "country": "NE",
+    "lat": 13.5137,
+    "lon": 2.1098,
+    "group": "capital"
+  },
+  {
+    "id": "cap-mr",
+    "name": "Νουακσότ",
+    "country": "MR",
+    "lat": 18.0858,
+    "lon": -15.9785,
+    "group": "capital"
+  },
+  {
+    "id": "cap-to",
+    "name": "Νουκουαλόφα",
+    "country": "TO",
+    "lat": -21.1368,
+    "lon": -175.2011,
+    "group": "capital"
+  },
+  {
+    "id": "cap-bd",
+    "name": "Ντάκα",
+    "country": "BD",
+    "lat": 23.7104,
+    "lon": 90.4074,
+    "group": "capital"
+  },
+  {
+    "id": "cap-tl",
+    "name": "Ντίλι",
+    "country": "TL",
+    "lat": -8.5586,
+    "lon": 125.5736,
+    "group": "capital"
+  },
+  {
+    "id": "cap-sn",
+    "name": "Ντακάρ",
+    "country": "SN",
+    "lat": 14.6937,
+    "lon": -17.4441,
+    "group": "capital"
+  },
+  {
+    "id": "cap-td",
+    "name": "Ντζαμένα",
+    "country": "TD",
+    "lat": 12.1067,
+    "lon": 15.0444,
+    "group": "capital"
+  },
+  {
+    "id": "cap-tz",
+    "name": "Ντοντόμα",
+    "country": "TZ",
+    "lat": -6.1722,
+    "lon": 35.7395,
+    "group": "capital"
+  },
+  {
+    "id": "cap-tj",
+    "name": "Ντουσανμπέ",
+    "country": "TJ",
+    "lat": 38.5358,
+    "lon": 68.779,
+    "group": "capital"
+  },
+  {
+    "id": "cap-qa",
+    "name": "Ντόχα",
+    "country": "QA",
+    "lat": 25.2855,
+    "lon": 51.531,
+    "group": "capital"
+  },
+  {
+    "id": "cap-ca",
+    "name": "Οττάβα",
+    "country": "CA",
+    "lat": 45.4112,
+    "lon": -75.6981,
+    "group": "capital"
+  },
+  {
+    "id": "cap-us",
+    "name": "Ουάσινγκτον",
+    "country": "US",
+    "lat": 38.8951,
+    "lon": -77.0364,
+    "group": "capital"
+  },
+  {
+    "id": "cap-nz",
+    "name": "Ουέλινγκτον",
+    "country": "NZ",
+    "lat": -41.2866,
+    "lon": 174.7756,
+    "group": "capital"
+  },
+  {
+    "id": "cap-bf",
+    "name": "Ουαγκαντούγκου",
+    "country": "BF",
+    "lat": 12.3657,
+    "lon": -1.5339,
+    "group": "capital"
+  },
+  {
+    "id": "cap-mn",
+    "name": "Ουλάν Μπατόρ",
+    "country": "MN",
+    "lat": 47.9077,
+    "lon": 106.8832,
+    "group": "capital"
+  },
+  {
+    "id": "cap-fm",
+    "name": "Παλικίρ",
+    "country": "FM",
+    "lat": 6.9248,
+    "lon": 158.1611,
+    "group": "capital"
+  },
+  {
+    "id": "cap-fr",
+    "name": "Παρίσι",
+    "country": "FR",
+    "lat": 48.8534,
+    "lon": 2.3488,
+    "group": "capital"
+  },
+  {
+    "id": "cap-sr",
+    "name": "Παραμαρίμπο",
+    "country": "SR",
+    "lat": 5.8664,
+    "lon": -55.1668,
+    "group": "capital"
+  },
+  {
+    "id": "cap-cn",
+    "name": "Πεκίνο",
+    "country": "CN",
+    "lat": 39.9075,
+    "lon": 116.3972,
+    "group": "capital"
+  },
+  {
+    "id": "cap-kp",
+    "name": "Πιονγκγιάνγκ",
+    "country": "KP",
+    "lat": 39.0339,
+    "lon": 125.7543,
+    "group": "capital"
+  },
+  {
+    "id": "cap-kh",
+    "name": "Πνομ Πενχ",
+    "country": "KH",
+    "lat": 11.5625,
+    "lon": 104.916,
+    "group": "capital"
+  },
+  {
+    "id": "cap-me",
+    "name": "Ποντγκόριτσα",
+    "country": "ME",
+    "lat": 42.4412,
+    "lon": 19.2631,
+    "group": "capital"
+  },
+  {
+    "id": "cap-vu",
+    "name": "Πορτ Βίλα",
+    "country": "VU",
+    "lat": -17.7365,
+    "lon": 168.3137,
+    "group": "capital"
+  },
+  {
+    "id": "cap-mu",
+    "name": "Πορτ Λουίς",
+    "country": "MU",
+    "lat": -20.1619,
+    "lon": 57.4989,
+    "group": "capital"
+  },
+  {
+    "id": "cap-pg",
+    "name": "Πορτ Μόρεσμπι",
+    "country": "PG",
+    "lat": -9.4772,
+    "lon": 147.1509,
+    "group": "capital"
+  },
+  {
+    "id": "cap-tt",
+    "name": "Πορτ οφ Σπέιν",
+    "country": "TT",
+    "lat": 10.6667,
+    "lon": -61.5189,
+    "group": "capital"
+  },
+  {
+    "id": "cap-ht",
+    "name": "Πορτ-ο-Πρενς",
+    "country": "HT",
+    "lat": 18.5435,
+    "lon": -72.3388,
+    "group": "capital"
+  },
+  {
+    "id": "cap-cz",
+    "name": "Πράγα",
+    "country": "CZ",
+    "lat": 50.088,
+    "lon": 14.4208,
+    "group": "capital"
+  },
+  {
+    "id": "cap-cv",
+    "name": "Πράια",
+    "country": "CV",
+    "lat": 14.9315,
+    "lon": -23.5125,
+    "group": "capital"
+  },
+  {
+    "id": "cap-za",
+    "name": "Πρετόρια",
+    "country": "ZA",
+    "lat": -25.7449,
+    "lon": 28.1878,
+    "group": "capital"
+  },
+  {
+    "id": "cap-gt",
+    "name": "Πόλη της Γουατεμάλας",
+    "country": "GT",
+    "lat": 14.6407,
+    "lon": -90.5133,
+    "group": "capital"
+  },
+  {
+    "id": "cap-mx",
+    "name": "Πόλη του Μεξικού",
+    "country": "MX",
+    "lat": 19.4285,
+    "lon": -99.1277,
+    "group": "capital"
+  },
+  {
+    "id": "cap-pa",
+    "name": "Πόλη του Παναμά",
+    "country": "PA",
+    "lat": 8.9936,
+    "lon": -79.5197,
+    "group": "capital"
+  },
+  {
+    "id": "cap-bj",
+    "name": "Πόρτο Νόβο",
+    "country": "BJ",
+    "lat": 6.4965,
+    "lon": 2.6036,
+    "group": "capital"
+  },
+  {
+    "id": "cap-is",
+    "name": "Ρέικιαβικ",
+    "country": "IS",
+    "lat": 64.1355,
+    "lon": -21.8954,
+    "group": "capital"
+  },
+  {
+    "id": "cap-lv",
+    "name": "Ρίγα",
+    "country": "LV",
+    "lat": 56.946,
+    "lon": 24.1059,
+    "group": "capital"
+  },
+  {
+    "id": "cap-ma",
+    "name": "Ραμπάτ",
+    "country": "MA",
+    "lat": 34.0132,
+    "lon": -6.8326,
+    "group": "capital"
+  },
+  {
+    "id": "cap-sa",
+    "name": "Ριάντ",
+    "country": "SA",
+    "lat": 24.6877,
+    "lon": 46.7219,
+    "group": "capital"
+  },
+  {
+    "id": "cap-dm",
+    "name": "Ροζό",
+    "country": "DM",
+    "lat": 15.3017,
+    "lon": -61.3881,
+    "group": "capital"
+  },
+  {
+    "id": "cap-it",
+    "name": "Ρώμη",
+    "country": "IT",
+    "lat": 41.8919,
+    "lon": 12.5113,
+    "group": "capital"
+  },
+  {
+    "id": "cap-do",
+    "name": "Σάντο Ντομίνγκο",
+    "country": "DO",
+    "lat": 18.4719,
+    "lon": -69.8923,
+    "group": "capital"
+  },
+  {
+    "id": "cap-st",
+    "name": "Σάο Τομέ",
+    "country": "ST",
+    "lat": 0.3376,
+    "lon": 6.7299,
+    "group": "capital"
+  },
+  {
+    "id": "cap-sv",
+    "name": "Σαν Σαλβαδόρ",
+    "country": "SV",
+    "lat": 13.6893,
+    "lon": -89.1872,
+    "group": "capital"
+  },
+  {
+    "id": "cap-cr",
+    "name": "Σαν Χοσέ",
+    "country": "CR",
+    "lat": 9.9339,
+    "lon": -84.0849,
+    "group": "capital"
+  },
+  {
+    "id": "cap-ye",
+    "name": "Σανάα",
+    "country": "YE",
+    "lat": 15.3545,
+    "lon": 44.2065,
+    "group": "capital"
+  },
+  {
+    "id": "cap-cl",
+    "name": "Σαντιάγο",
+    "country": "CL",
+    "lat": -33.4569,
+    "lon": -70.6483,
+    "group": "capital"
+  },
+  {
+    "id": "cap-ba",
+    "name": "Σαράγεβο",
+    "country": "BA",
+    "lat": 43.8486,
+    "lon": 18.3564,
+    "group": "capital"
+  },
+  {
+    "id": "cap-ag",
+    "name": "Σεντ Τζονς",
+    "country": "AG",
+    "lat": 17.121,
+    "lon": -61.8433,
+    "group": "capital"
+  },
+  {
+    "id": "cap-gd",
+    "name": "Σεντ Τζορτζς",
+    "country": "GD",
+    "lat": 12.0529,
+    "lon": -61.7523,
+    "group": "capital"
+  },
+  {
+    "id": "cap-kr",
+    "name": "Σεούλ",
+    "country": "KR",
+    "lat": 37.566,
+    "lon": 126.9784,
+    "group": "capital"
+  },
+  {
+    "id": "cap-sg",
+    "name": "Σιγκαπούρη",
+    "country": "SG",
+    "lat": 1.2897,
+    "lon": 103.8501,
+    "group": "capital"
+  },
+  {
+    "id": "cap-mk",
+    "name": "Σκόπια",
+    "country": "MK",
+    "lat": 41.9965,
+    "lon": 21.4314,
+    "group": "capital"
+  },
+  {
+    "id": "cap-fj",
+    "name": "Σούβα",
+    "country": "FJ",
+    "lat": -18.1368,
+    "lon": 178.4253,
+    "group": "capital"
+  },
+  {
+    "id": "cap-bo",
+    "name": "Σούκρε",
+    "country": "BO",
+    "lat": -19.0333,
+    "lon": -65.2627,
+    "group": "capital"
+  },
+  {
+    "id": "cap-se",
+    "name": "Στοκχόλμη",
+    "country": "SE",
+    "lat": 59.3294,
+    "lon": 18.0687,
+    "group": "capital"
+  },
+  {
+    "id": "cap-bg",
+    "name": "Σόφια",
+    "country": "BG",
+    "lat": 42.6975,
+    "lon": 23.3241,
+    "group": "capital"
+  },
+  {
+    "id": "cap-al",
+    "name": "Τίρανα",
+    "country": "AL",
+    "lat": 41.3274,
+    "lon": 19.8187,
+    "group": "capital"
+  },
+  {
+    "id": "cap-ee",
+    "name": "Ταλίν",
+    "country": "EE",
+    "lat": 59.437,
+    "lon": 24.7535,
+    "group": "capital"
+  },
+  {
+    "id": "cap-ki",
+    "name": "Ταράουα",
+    "country": "KI",
+    "lat": 1.3278,
+    "lon": 172.977,
+    "group": "capital"
+  },
+  {
+    "id": "cap-uz",
+    "name": "Τασκένδη",
+    "country": "UZ",
+    "lat": 41.2647,
+    "lon": 69.2163,
+    "group": "capital"
+  },
+  {
+    "id": "cap-hn",
+    "name": "Τεγουσιγκάλπα",
+    "country": "HN",
+    "lat": 14.0818,
+    "lon": -87.2068,
+    "group": "capital"
+  },
+  {
+    "id": "cap-ir",
+    "name": "Τεχεράνη",
+    "country": "IR",
+    "lat": 35.6944,
+    "lon": 51.4215,
+    "group": "capital"
+  },
+  {
+    "id": "cap-id",
+    "name": "Τζακάρτα",
+    "country": "ID",
+    "lat": -6.2146,
+    "lon": 106.8451,
+    "group": "capital"
+  },
+  {
+    "id": "cap-dj",
+    "name": "Τζιμπουτί",
+    "country": "DJ",
+    "lat": 11.589,
+    "lon": 43.145,
+    "group": "capital"
+  },
+  {
+    "id": "cap-gy",
+    "name": "Τζορτζτάουν",
+    "country": "GY",
+    "lat": 6.8045,
+    "lon": -58.1553,
+    "group": "capital"
+  },
+  {
+    "id": "cap-ss",
+    "name": "Τζούμπα",
+    "country": "SS",
+    "lat": 4.8517,
+    "lon": 31.5825,
+    "group": "capital"
+  },
+  {
+    "id": "cap-bt",
+    "name": "Τιμφού",
+    "country": "BT",
+    "lat": 27.4661,
+    "lon": 89.6419,
+    "group": "capital"
+  },
+  {
+    "id": "cap-ge",
+    "name": "Τιφλίδα",
+    "country": "GE",
+    "lat": 41.6914,
+    "lon": 44.8341,
+    "group": "capital"
+  },
+  {
+    "id": "cap-ly",
+    "name": "Τρίπολη",
+    "country": "LY",
+    "lat": 32.8874,
+    "lon": 13.1873,
+    "group": "capital"
+  },
+  {
+    "id": "cap-jp",
+    "name": "Τόκιο",
+    "country": "JP",
+    "lat": 35.6895,
+    "lon": 139.6917,
+    "group": "capital"
+  },
+  {
+    "id": "cap-tn",
+    "name": "Τύνιδα",
+    "country": "TN",
+    "lat": 36.819,
+    "lon": 10.1658,
+    "group": "capital"
+  },
+  {
+    "id": "cap-tv",
+    "name": "Φουναφούτι",
+    "country": "TV",
+    "lat": -8.5243,
+    "lon": 179.1942,
+    "group": "capital"
+  },
+  {
+    "id": "cap-sl",
+    "name": "Φρίταουν",
+    "country": "SL",
+    "lat": 8.4871,
+    "lon": -13.2356,
+    "group": "capital"
+  },
+  {
+    "id": "cap-zw",
+    "name": "Χαράρε",
+    "country": "ZW",
+    "lat": -17.8277,
+    "lon": 31.0534,
+    "group": "capital"
+  },
+  {
+    "id": "cap-sd",
+    "name": "Χαρτούμ",
+    "country": "SD",
+    "lat": 15.5518,
+    "lon": 32.5324,
+    "group": "capital"
+  },
+  {
+    "id": "cap-sb",
+    "name": "Χονιάρα",
+    "country": "SB",
+    "lat": -9.4333,
+    "lon": 159.95,
+    "group": "capital"
+  }
+]

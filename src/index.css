@@ -1,0 +1,22 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  font-family: "Segoe UI", system-ui, sans-serif;
+  background: #ffe600;
+  background-image: radial-gradient(circle at 20% 10%, #fff27a 0, transparent 40%),
+    radial-gradient(circle at 90% 90%, #6ec6ff 0, transparent 35%);
+  display: flex;
+  justify-content: center;
+}
+
+/* Το #root γεμίζει την οθόνη και κεντράρει την εφαρμογή (χωρίς οριζόντιο scroll στο κινητό) */
+#root {
+  width: 100%;
+  min-width: 0;
+  display: flex;
+  justify-content: center;
+}
