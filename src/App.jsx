@@ -34,6 +34,28 @@ function loadInitialPlace() {
 }
 
 function App() {
+   // 1. Άλλαξε το state και το useEffect του ρολογιού:
+const [dateTime, setDateTime] = useState({ date: "", time: "" });
+
+useEffect(() => {
+  const updateClock = () => {
+    const now = new Date();
+    const dateString = now.toLocaleDateString("el-GR", {
+      weekday: "short",
+      day: "2-digit",
+      month: "2-digit",
+      year: "numeric",
+    });
+    const timeString = now.toLocaleTimeString("el-GR", { hour12: false }); // ή true αν θες π.μ./μ.μ.
+    setDateTime({ date: dateString, time: timeString });
+  };
+  updateClock();
+  const intervalId = setInterval(updateClock, 1000);
+
+  return () => clearInterval(intervalId);
+}, []);
+
+
   // Η επιλεγμένη πόλη είναι αντικείμενο: { id, name, country, lat, lon }
   const [selected, setSelected] = useState(loadInitialPlace);
   // Το αποτέλεσμα θυμάται για ποια πόλη ήρθε, ώστε να ξέρουμε αν φορτώνει
@@ -100,9 +122,14 @@ function App() {
   return (
     <main className="app">
       <div className="controls">
-        <CitySelect value={selectValue} onChange={handleSelect} />
-        <CitySearch onPick={handlePick} />
-      </div>
+        <p className="info">Επιλέξτε πόλη ή αναζητήστε:</p>
+  <CitySelect value={selectValue} onChange={handleSelect} />
+  <CitySearch onPick={handlePick} />
+  <div className="clock">
+    <span className="date">{dateTime.date}</span>
+    <span className="time">{dateTime.time}</span>
+  </div>
+</div>
 
       {/* Οι τρεις κάρτες δίπλα δίπλα (σε στενή οθόνη η μία κάτω από την άλλη) */}
       <div className="panels">
@@ -132,6 +159,8 @@ function App() {
           <MapCard place={selected} />
         </section>
       </div>
+      <footer className="footer">Copyright © 2026  Γ. Δεμερτζης
+      </footer>
     </main>
   );
 }

@@ -8,7 +8,9 @@
   align-items: center;
   gap: 16px;
 }
-
+.info {
+  color: #333333;
+}
 /* --- Επιλογή και αναζήτηση πόλης --- */
 .controls {
   width: 100%;
