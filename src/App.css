@@ -12,13 +12,11 @@
 /* --- Επιλογή και αναζήτηση πόλης --- */
 .controls {
   width: 100%;
-  max-width:  1180px;
+  max-width: 600px;
   display: flex;
   flex-wrap: wrap; /* στο κινητό πέφτουν σε δύο γραμμές */
-  gap: 12px;
+  gap: 10px;
   align-items: flex-start;
-  align-items: center; /* Ευθυγραμμίζει κατακόρυφα όλα τα κουτιά */
-  justify-content: center;
 }
 .city-select {
   flex: 1 1 200px;
@@ -108,8 +106,6 @@
 .weather-card {
   width: 100%;
   max-width: 380px;
-  height: 620px;
-  max-height: 620px;
   background: linear-gradient(135deg, #4facfe, #00f2fe);
   color: #fff;
   border-radius: 20px;
@@ -195,32 +191,17 @@
   max-width: 380px;
 }
 .info {
-  color: #f12121;
-  background: #fee2e2;
+  color: #333;
 }
 
 /* --- Οι τρεις κάρτες δίπλα δίπλα --- */
-.panels1 {
+.panels {
   width: 100%;
   display: flex;
   flex-wrap: wrap; /* όταν δεν χωράνε, πέφτουν σε επόμενη γραμμή */
   justify-content: center;
   align-items: flex-start;
   gap: 16px;
-}
-/* Οι 3 κάρτες δίπλα-δίπλα */
-.panels {
-  display: grid;
-  grid-template-columns: repeat(3, 1fr); /* 3 ίσες στήλες δίπλα-δίπλα */
-  gap: 20px;
-  align-items: stretch;
-}
-
-/* Μόνο σε μικρές οθόνες (tablet/κινητό) να μπαίνουν η μία κάτω από την άλλη */
-@media (max-width: 900px) {
-  .panels {
-    grid-template-columns: 1fr;
-  }
 }
 .panel {
   flex: 0 1 380px; /* ιδανικό πλάτος 380px, στενεύει αν χρειαστεί */
@@ -235,8 +216,6 @@
 .map-card {
   width: 100%;
   max-width: 380px;
-  height: 620px;
-  max-height: 620px;
   background: linear-gradient(135deg, #4facfe, #00f2fe);
   color: #fff;
   border-radius: 20px;
@@ -279,8 +258,6 @@
 .forecast-card {
   width: 100%;
   max-width: 380px;
-  height: 620px;
-  max-height: 620px;
   background: linear-gradient(135deg, #4facfe, #00f2fe);
   color: #fff;
   border-radius: 20px;
@@ -339,7 +316,10 @@
   font-size: 10px;
 }
 .forecast-hours {
-  padding: 4px 0 10px;
+  padding: 4px 4px 10px 0;
+  max-height: 260px; /* μέγιστο ύψος της ανάλυσης: αν οι ώρες είναι περισσότερες, εμφανίζεται κύλιση */
+  overflow-y: auto;
+  overscroll-behavior: contain; /* η κύλιση της λίστας δεν «σέρνει» και τη σελίδα */
 }
 .forecast-hour {
   display: grid;
@@ -371,67 +351,4 @@
 .hour-info small {
   font-size: 12px;
   opacity: 0.95;
-}
-
-
-
-.clock-container {
-    
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    background: linear-gradient(135deg, #20ade9, #642c4c);
-    font-family: 'Segoe UI', sans-serif;
-}
-/* Επάνω μπάρα: Επιλογή + Αναζήτηση + Ρολόι δίπλα-δίπλα */
-.controls1 {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  gap: 12px;
-  flex-wrap: wrap; /* Σε πολύ μικρές οθόνες θα σπάνε ομαλά */
-  margin-bottom: 20px;
-}
-
-.clock {
-  display: flex;
-  align-items: center;
-  gap: 8px;
-  background-color: #0e93cb; /* Προσάρμοσέ το στα χρώματά σου */
-  color: #edefef;
-  padding: 8px 14px;
-  border-radius: 8px;
-  font-weight: bold;
-  white-space: nowrap; /* Να μη σπάει η ώρα σε 2 γραμμές */
-}
-.clock1 {
-    background: rgba(0, 0, 0, 0.6);
-    padding: 30px 50px;
-    border-radius: 15px;
-    box-shadow: 0 0 20px rgba(0, 255, 255, 0.4);
-}
-
-.time1 {
-    padding: 4px 12px;
-    font-size: 1rem;
-    font-weight: bold;
-    color: #00e5ff;
-    text-align: center;
-    letter-spacing: 2px;
-    border: 2px solid #00e5ff;
-    border-radius: 8px;
-    background: rgba(0, 0, 0, 0.4);
-    box-shadow: 0 0 8px rgba(0, 229, 255, 0.4);
-    white-space: nowrap;
-}
-.footer {
-  margin-top: 24px;
-  padding: 10px 24px;
-  background-color: #0b4f6c;
-  color: #e0f2fe;
-  border-radius: 12px;
-  font-size: 14px;
-  font-weight: 500;
-  text-align: center;
-  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.12);
 }
